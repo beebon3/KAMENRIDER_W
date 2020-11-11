@@ -1,0 +1,2 @@
+# KAMENRIDER_W
+A website about KAMENRIDER_W
