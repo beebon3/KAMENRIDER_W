@@ -1858,7 +1858,7 @@ body,
 
 /* Hero */
 .hero-5-1 .media-column{
-	background-image: url(../images/resume/generic/hero-half-1.jpg);
+	background-image: url(../images/me/hero-half-1.jpg);
 }
 .hero-5-2 .media-column{
 	background-image: url(../images/team/hero-half-2.jpg);
@@ -1961,10 +1961,10 @@ body,
 
 /* Hero Sections */
 .hero-5-contact-1 .media-column{
-	background-image: url(../images/contact/hero-half.jpg);
+	background-image: url(../images/me/hero-half.jpg);
 }
 .hero-5-contact-2 .media-column{
-	background-image: url(../images/contact/hero-half.jpg);
+	background-image: url(../images/me/hero-half.jpg);
 }
 .hero-5-contact-1 [class*="stats-"] .stat-inner{
 	text-align: left;
@@ -3738,10 +3738,10 @@ only screen and (				min-resolution: 2dppx) {
 
 	/* Hero Sections */
 	.hero-5-1 .media-column{
-		background-image: url(../images/resume/generic/hero-half-1@2x.jpg);
+		background-image: url(../images/me/hero-half-1@2x.jpg);
 	}
 	.hero-5-2 .media-column{
-		background-image: url(../images/team/hero-half-2@2x.jpg);
+		background-image: url(../images/me/hero-half-2@2x.jpg);
 	}
 
 	/* Call to Action Sections */
