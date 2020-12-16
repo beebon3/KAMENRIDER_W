@@ -1,0 +1,113 @@
+@charset "UTF-8";
+/* CSS Document */
+html,body{
+  font-family: Arial, sans-serif;
+  color:#cbccd1;
+	padding: 0px;
+	margin: 0;
+	text-align: center;
+	background-color: #333b47;
+}
+header{
+	background-color:  #7bd964;
+	background-image: url("../img/v2-a1f6b8b3a85ca3252c95e4d988731bfd_b.jpg")
+	
+	background-size:contain;
+	
+	padding: 40px;
+	text-align: center;
+	
+}
+
+
+h1{
+	font-size: 90px;
+	color:white;
+	
+
+}
+header img{
+	border-radius:100px 100px 100px 0px; 
+		width:480px;
+		height:272px;
+	    
+	border: 20px solid #333b47;
+}
+
+.conttent{
+	
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0 20px;}
+img.big-image{
+	max-width:100%;
+}
+p.caption{
+	text-indent:2em;
+	font-size:16px;
+	color: darkgray;
+	font-style: italic;
+	}
+ul{
+	list-style: none;
+	padding: 15px;
+	margin: 0;
+}
+
+
+footer{
+	
+	padding: 40px 20px;
+	color:gray;
+	background-color: #2a2b2e;
+}
+ul{
+	float: none;
+	text-align: center;
+}
+footer ul li{
+	float: none;
+	display:inline-block;
+	margin: 0 5px;
+}
+
+#h3 {height:40px;}
+#h3 ul{text-align:center;list-style-type:none;}
+#h3 ul li{display:inline;}
+
+/*菜单样式*/
+ul
+{
+list-style-type:none;
+margin:0;
+padding:0;
+overflow:hidden;
+}
+li
+{
+float:left;
+}
+a:link,a:visited
+{
+display:block;
+width:120px;
+font-weight:bold;
+color:#FFFFFF;
+background-color:#424242;
+text-align:center;
+padding:4px;
+text-decoration:none;
+text-transform:uppercase;
+}
+a:hover,a:active
+{
+background-color:#cc0000;
+}
+
+</style>
+
+/*<header>
+	<img src="img/profile.jpg">
+		<h1>Kamen Rider W</h1>
+</header>*/
+
